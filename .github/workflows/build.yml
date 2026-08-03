@@ -40,6 +40,4 @@ jobs:
         with:
           name: voice-party-app-release
           path: build/app/outputs/flutter-apk/app-release.apk
-          name: voice-party-app-release
-          path: build/app/outputs/flutter-apk/app-release.apk
           
