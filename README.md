@@ -1,2 +1,0 @@
-# Voicepartyapp-
-Gifting 
